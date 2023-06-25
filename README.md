@@ -10,5 +10,5 @@ the challenge is to build out this Calculator application using the function,Eve
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Vinoth30457/Expense-Tracker.git)
-- Live Site URL: [Click here](https://eloquent-rolypoly-0cb25b.netlify.app)
+- Solution URL: [Click here](https://github.com/Vinoth30457/calculator.git)
+- Live Site URL: [Click here](https://vermillion-fox-182824.netlify.app)
